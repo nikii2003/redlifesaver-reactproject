@@ -9,7 +9,7 @@ import addition from "./add.png"
 import Footer from "./../../Component/Footer/Footer"
 import imgGearth from "./Donate-Gearth.jpg"
 import { TeamCard } from '../../Component/Card/Card';
-import member1 from "./rahul.jpeg"
+import member1 from "./rahul .jpg"
 import member2 from "./nikita.jpeg"
 import member3 from "./shweta.jpeg"
 import member4 from "./mansi.jpeg"
@@ -53,9 +53,9 @@ function About() {
       <div className='team-card'>
        
        
-        <TeamCard name="Rahul Jadhav" linkdin="https://www.linkedin.com/in/rahul2163" github="https://github.com/rahuljadhav2163" img={member1} education=" Education -I am currently pursuing BE 3rd year from Parikrama college of engineering.I am passionate about coding, cricket."/>
+        <TeamCard name="Rahul Jadhav" linkdin="https://www.linkedin.com/in/rahul2163" github="https://github.com/rahuljadhav2163" img={member1} education=" Education -I am  pursuing B.Tech 3rd year from Parikrama college of engineering kashti.I am passionate about coding, cricket."/>
        
-        <TeamCard name="Nikita Kadiwike" linkdin="https://www.linkedin.com/in/nikitakadiwike/ " github="https://github.com/nikii2003" img={member2} education="Education -I am purshuing  B.Tech from TGPCET .I am passionate about coding and games."/>
+        <TeamCard name="Nikita Kadiwike" linkdin="https://www.linkedin.com/in/nikitakadiwike/ " github="https://github.com/nikii2003" img={member2} education="Education -I am purshuing  B.Tech from Tulsiramji Gaikwad Patil college of engineering and technology .I am passionate about coding and games."/>
 
 
         <TeamCard name="Shweta Pund" linkdin="https://www.linkedin.com/in/shwetapund/ " github="https://github.com/shwetapund" img={member3} education="Education -I have completed BCA from RSMDP. I am passionate about coding and singing."/>
